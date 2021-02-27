@@ -1,0 +1,21 @@
+{
+    "name" : "Varanasi Geo Informatics System",
+    "short_name" : "Vns Geo Info",
+    "start_url" : ".",
+    "background_color" : "#EFEFEF",
+    "theme_color" : "#F8F8F8",
+    "display" : "standalone",
+    "icons" : [
+        {
+            "src" : "images/192 by 192.png",
+            "sizes" : "192x192",
+            "type" : "image/png"
+        },
+        {
+            "src" : "images/512 by 512.png",
+            "sizes" : "512x512",
+            "type" : "image/png"
+        }
+
+    ]
+}
